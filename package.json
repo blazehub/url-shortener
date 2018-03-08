@@ -1,0 +1,25 @@
+{
+  "name": "url-shortener-util",
+  "version": "1.0.0",
+  "description": "url shortener, mongo, nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blazehub/url-shortener.git"
+  },
+  "keywords": [
+    "url",
+    "shortener",
+    "mongo",
+    "nodejs"
+  ],
+  "author": "blaze.avinash@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blazehub/url-shortener/issues"
+  },
+  "homepage": "https://github.com/blazehub/url-shortener#readme"
+}
